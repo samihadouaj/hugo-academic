@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title:Sami Hadouaj
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Sami
+last_name: Hadouaj
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,16 +14,16 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University Of Michigan
+    url: https://umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Databases, machine learning and probabilistic programming.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Machine learning
+  - Machine learning
   - Information Retrieval
 
 # Education to show in About widget
